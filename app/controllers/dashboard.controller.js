@@ -7,7 +7,7 @@ function DashboardController(gh) {
 
     var _this = this;
     _this.github = '';
-    console.info('444');
+    console.info('nnn');
     // gh.getStatus().success(function(status) {
     //     _this.github = status;
     // });

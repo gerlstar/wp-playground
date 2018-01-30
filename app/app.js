@@ -2,7 +2,7 @@
 require('../test.scss');
 require('../_index.css');
 
-var catImg  =require('./assets/cutecat.gif');
+require('./assets/cutecat.gif');
 
 angular.module('dashboard', []);
 
